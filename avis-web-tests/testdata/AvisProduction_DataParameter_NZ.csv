@@ -1,0 +1,51 @@
+####################################_RESERVATION_##################################
+Reservation_OutboundAndMultiCurrency_Paylater,AKL,ABGQATeam,qa,AbgEcom,8980765645
+Reservation_AnonymousDomesticAWDorBDCorPDNAndIATAAndKeyDropAndSort_Paylater,EWR,3:00 AM,X1962090,ABGQATeam,qa,test,9838234567,0123141G,YYZ
+Reservation_Recognised_Paylater,LAS,T5P575,G,LAS
+Reservation_MandateflightInfoAndTtypeCouponProcessingStrikeThrough_Paylater,LAS,ABGQATeam,qa,test,9838234567,123,MEX,TUZZ005
+Reservation_TierBundle_PayLater,EWR,Tester,M,test,9838234567,345836415546724,123
+Reservation_UnderAgeAndHomePageErrorMessageAndPersonalInfoValidation_Paylater,EWR,22,ABGQATeam,qa,test,9838234567
+Reservation_ErrorMessage_PayNow,EWR,ABGQATeam,qa,test,9838234567,345836415546724,123
+Reservation_Inbound_PayLater,AKL,U S A,ABGQATeam,qa,AbgEcom,8980765645
+Reservation_Domestic_PayNow,AKL,ABGQATeam,qa,AbgEcom,8980765645,343710684134463,123
+Reservation_Outbound_PayNow,EWR,ABGQATeam,qa,AbgEcom,8980765645,343710684134463,123
+Reservation_Inbound_PayNow,AKL,U S A,ABGQATeam,qa,AbgEcom,8980765645,343710684134463,123
+Reservation_SnowChain_PayLater,MXP,ABGQATeam,qa,ABGSnowChain,8787675645
+
+##############################_LOCATION_#################################
+Location_Search_MnemonicCodeRes,AKL,ABGQATeam,qa,ABG_Location,9897867898
+Location_Search_Suggestion,AKL
+
+
+#############################_RENTAL_###################################
+
+
+
+
+###############################_PROFILE_#################################
+#Profile_Enrollment_Create,New Zealand,ABGQATeam,qa,ABGProfileEmail,1234567890Aa@,241  Hawkey Street,address 2,7910,Smithfield,Timaru 
+
+
+
+
+####################################_MISC_######################################
+
+
+
+#################################_GENERIC_#####################################
+
+
+
+
+
+
+###############################_BAU_tracker_####################################
+
+########################_DEC-2020_###############################
+#DEC_REL_ABGDIMT494_Avis_China_BBS_Product,SYX,ABGQATeam,qa,ABGEmailTracker,9838234567
+
+
+
+
+
+

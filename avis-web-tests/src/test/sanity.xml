@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="regression" parallel="false" verbose="1" thread-count="10">
+
+    <parameter name="brand" value="Avis"/> <!-- <Possible values: Avis/Budget/Paylesscar -->
+    <parameter name="domain" value="US"/>    <!-- <Possible values: US/CA/AU/NZ> -->
+    <parameter name="environment" value="qa"/>    <!-- < Possible values : qa/uat1/qa2/www/load balancer ip> -->
+    <parameter name="browser" value="chrome"/>        <!-- <Possible values: chrome/firefox/IE> -->
+
+    <test name="AVIS US Sanity Tests on Chrome">
+        <groups>
+            <run>
+                <include name="sanity"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.avis.qa"/>
+        </packages>
+    </test>
+
+</suite>

@@ -1,0 +1,75 @@
+
+######################################_RESERVATION_#######################
+Reservation_OutboundAndMultiCurrency_Paylater,AKL,Hrishi,K,AbgEcom,8980765645
+Reservation_Recognised_Paylater,SYD,A3V897,Garg,SYD
+Reservation_AuthenticatedAndDomestic_Paylater,SYD,6CQ89V,Sharanya97@,M9K
+Reservation_AnonymousDomesticAWDorBDCorPDNAndIATAAndKeyDropAndSort_Paylater,EWR,3:00 AM,X1962090,Tester,M,test,9838234567,0123141G,YYZ
+Reservation_MandateflightInfoAndTtypeCouponProcessingStrikeThrough_Paylater,SYD,Tester,M,test,9838234567,123,MEX,GUZZ003
+Reservation_FleetVerification_Price,EWR,Tester,M,test,9838234567,345836415546724,123
+Reservation_UnderAgeAndHomePageErrorMessageAndPersonalInfoValidation_Paylater,SYD,22,Tester,M,test,9838234567
+Reservation_ErrorMessage_PayNow,EWR,Tester,M,test,9838234567,345836415546724,123
+Reservation_TierBundle_PayLater,EWR,Tester,M,test,9838234567,345836415546724,123
+Reservation_Inbound_PayLater,SYD,U S A,Hrishi,K,AbgEcom,8980765645
+Reservation_Domestic_PayNow,SYD,Hrishi,K,AbgEcom,8980765645,343710684134463,123
+Reservation_Outbound_PayNow,EWR,Hrishi,K,AbgEcom,8980765645,343710684134463,123
+Reservation_Inbound_PayNow,SYD,U S A,Hrishi,K,AbgEcom,8980765645,343710684134463,123
+Reservation_USAA_PayLater,SYD,A177201,14518727,Tester,M,test,8980765645
+Reservation_Costco_PayLater,SYD,A108301,111789732130,Ishita,Garg,test,8658066321
+Reservation_OneWay_PayLater,EWR,JFK,Ishita,Garg,test,8658066321
+Reservation_MtypeCouponProcessing_PayLater,ABX,MUZZ014,Ishita,Garg,test,8658066321
+Reservation_UtypeCouponProcessing_PayLater,ABX,UUZZ003,Ishita,Garg,test,8658066321
+Reservation_GtypeCouponProcessing_PayLater,ABX,GUZZ003,Ishita,Garg,test,8658066321
+Reservation_GEBUser_PayLater,SYD,EV300W,GEB,Corpo,test,8658066321
+Reservation_SnowChain_PayLater,MXP,Hrishi,K,ABGSnowChain,8787675645
+Reservation_OneClick_Step3,/en/reservation#/oneclick?PICKUP_YEAR=2019&PICKUP_MONTH=7&PICKUP_DAY=23&PICKUP_HOUR=9&PICKUP_MINUTE=0&PICKUP_AM_PM=AM&RETURN_YEAR=2019&RETURN_MONTH=7&RETURN_DAY=30&RETURN_HOUR=9&RETURN_MINUTE=0&RETURN_AM_PM=AM&PICKUP_LOCATION_CODE=SFO&RETURN_LOCATION_CODE=SFO&RENTAL_ONEWAY=false&RATE_CODE=76&COUNTRY_OF_RESIDENCE_CODE=US&CAR_GROUP_CODE=W&STEP_CODE=4
+Reservation_OneClick_GPSSelection,/en/reservation#/oneclick?resForm.confirmationNumber=13543547US3&resForm.lastName.value=G&accept_GPS=true
+Reservation_EMEA90Days_ErrorMessage,LDY,4
+Reservation_EMEA330Days_ErrorMessage,CPT,12
+##############################_LOCATION_#################################
+Location_Search_MnemonicCodeRes,SYD,Hrishi,K,ABG_Location,9897867898
+Location_Search_Suggestion,SYD
+
+
+#############################_RENTAL_###################################
+Rental_SplitAmount_Authenticated,g,709046612,U S A
+
+
+
+###############################_PROFILE_#################################
+Profile_Enrollment_Create,Australia,firstName,lastName,testUser,Password@978,48 Rasmus Ave,address 2,3892,Mallacoota,VIC 
+Profile_Management_Update,5CJ49Y,Testing97@,Testing@123,A,Abg001,Hogwart University,8978976786,123
+Profile_Lookup_UserName,Harbee,Mole,amazonqa@givmail.com,2453
+Profile_Lookup_Password,Harbee,Mole,amazonqa@givmail.com,2453
+Profile_Management_AccountLock,Hrishi1,samplepassword@123
+Profile_Dashboard_UpcomingReservation,5DY99F,Testing200@
+Profile_Dashboard_PastRentals,8TJ99W,Qwerty@100
+
+
+####################################_MISC_######################################
+Misc_OffersPage_Reservation,SYD,Ishita,Garg,test,8658066321
+Misc_CarGuide_Res,SYD,Ishita,Garg,test,8658066321
+
+#################################_GENERIC_#####################################
+Concur_AuthCredentials,8TN00U,Password123
+SimplifiedRegistration_creditCardLogin,A3S032,Password123
+Profile_VerifyEditCreditCard,Visa,4532060254481412,June,2025,1231
+PastRental_LoginCredentials,MD0990,Testing123
+step4details,MADELEINE,HARKINS,test@email.com,2104562663
+step4values,ASIF,ZAIDI,test@email.com
+resuablePayNowReservationNumber,05291139US0,ZAIDI
+cardNumber_SecurityCode,348427266151873,1231
+
+
+
+
+
+
+###############################_BAU_tracker_####################################
+
+########################_DEC-2020_###############################
+DEC_REL_ABGDIMT494_Avis_China_BBS_Product,SYX,Hrishi,K,ABGEmailTracker,9838234567
+
+
+
+
+

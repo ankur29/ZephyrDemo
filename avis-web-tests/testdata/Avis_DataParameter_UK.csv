@@ -1,0 +1,43 @@
+####################################_RESERVATION_##################################
+Reservation_OutboundMultiCurrency_Paylater,AKL,Hrishi,K,AbgEcom,8980765645
+Reservation_AuthenticateddDomestic_Paylater,EWR,A4E966,Password123,LAS
+Reservation_AnonymousDomesticAWDorBDCorPDNAndIATAAndKeyDrop_Paylater,EWR,3:00 AM,X1962090,Tester,M,test,9838234567,0123141G,YYZ
+Reservation_Recognised_Paylater,LAS,8TL47W,G,LAS
+Reservation_MandateflightInfoAndTtypeCouponProcessing_Paylater,LAS,Tester,M,test,9838234567,123,YGK,TUZZ005
+Reservation_FleetVerification_Price,EWR,Tester,M,test,9838234567,345836415546724,123
+Reservation_UnderAgeAndHomePageErrorMessage_Paylater,SDF,22,Tester,M,test,9838234567
+Reservation_OneClick_GPSSelection,/en/reservation#/oneclick?resForm.confirmationNumber=13543547US3&resForm.lastName.value=G&accept_GPS=true
+Reservation_Prepay_ErrorMessage,EWR,Tester,M,test,9838234567,345836415546724,123
+Reservation_TierBundle_PayLater,EWR,Tester,M,test,9838234567,345836415546724,123
+##############################_LOCATION_#################################
+Location_Search_MnemonicCodeRes,EWR,Hrishi,K,ABG_Location,9897867898
+Location_Search_Suggestion,EWR
+
+
+
+#############################_RENTAL_###################################
+Rental_SplitAmount_Authenticated,g,709046612,U S A
+
+
+###############################_PROFILE_#################################
+Profile_Enrollment_Create,U S A,firstName,lastName,testUserEamil,Password@789,908 N Dodge St,address 2,52245,Iowa City,IA 
+Profile_Management_Update,6CU87V,1234567890Aa@,Testing@123,A,Abg001,Hogwart University,8978976786,123
+Profile_Lookup_UserName,Harbor,Kate,amazonqa@givmail.com,36017
+Profile_Lookup_Password,Harbor,Kate,amazonqa@givmail.com,36017
+Profile_Management_AccountLock,5CR72W,samplepassword123
+
+
+####################################_MISC_######################################
+Misc_SmallBizz_Enrollment,,,Hrishi,K,ABGnetworkSmall,8970987867,Hrishikesh129,calicut university,College Station,Texas,77845 
+
+
+
+#################################_GENERIC_#####################################
+Concur_AuthCredentials,8TN00U,Password123
+SimplifiedRegistration_creditCardLogin,A3S032,Password123
+Profile_VerifyEditCreditCard,Visa,4532060254481412,June,2025,1231
+PastRental_LoginCredentials,MD0990,Testing123
+step4details,MADELEINE,HARKINS,test@email.com,2104562663
+step4values,ASIF,ZAIDI,test@email.com
+resuablePayNowReservationNumber,05291139US0,ZAIDI
+cardNumber_SecurityCode,348427266151873,1231

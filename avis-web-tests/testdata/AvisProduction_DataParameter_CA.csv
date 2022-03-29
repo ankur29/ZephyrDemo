@@ -1,0 +1,50 @@
+####################################_RESERVATION_##################################
+Reservation_OutboundAndMultiCurrency_Paylater,AKL,ABGQATeam,qa,AbgEcom,8980765645
+Reservation_AnonymousDomesticAWDorBDCorPDNAndIATAAndKeyDropAndSort_Paylater,EWR,3:00 AM,X1962090,ABGQATeam,qa,test,9838234567,0123141G,YYZ
+Reservation_Recognised_Paylater,LAS,6GK75J,G,LAS
+Reservation_MandateflightInfoAndTtypeCouponProcessingStrikeThrough_Paylater,LAS,ABGQATeam,qa,test,9838234567,123,MEX,TUZZ005
+Reservation_TierBundle_PayLater,EWR,Tester,M,test,9838234567,345836415546724,123
+Reservation_UnderAgeAndHomePageErrorMessageAndPersonalInfoValidation_Paylater,EWR,22,ABGQATeam,qa,test,9838234567
+Reservation_OneClick_GPSSelection,/en/reservation#/oneclick?resForm.confirmationNumber=41997112CA3&resForm.lastName.value=G&accept_GPS=true
+Reservation_ErrorMessage_PayNow,EWR,ABGQATeam,qa,test,9838234567,345836415546724,123
+Reservation_Inbound_PayLater,YQX,New Zealand,ABGQATeam,qa,AbgEcom,8980765645
+Reservation_Domestic_PayNow,YYZ,ABGQATeam,qa,AbgEcom,8980765645,343710684134463,123
+Reservation_Outbound_PayNow,EWR,ABGQATeam,qa,AbgEcom,8980765645,343710684134463,123
+Reservation_Inbound_PayNow,YYZ,U S A,ABGQATeam,qa,AbgEcom,8980765645,343710684134463,123
+Reservation_SnowChain_PayLater,MXP,ABGQATeam,qa,ABGSnowChain,8787675645
+
+##############################_LOCATION_#################################
+Location_Search_MnemonicCodeRes,YYZ,ABGQATeam,qa,ABG_Location,9897867898
+Location_Search_Suggestion,YYZ
+
+
+#############################_RENTAL_###################################
+
+
+
+
+###############################_PROFILE_#################################
+#Profile_Enrollment_Create,Canada,ABGQATeam,qa,ABGProfileEmail,1234567890Aa@,2344  Queens Bay,address 2,M4L 1V3,Ontario,ON
+
+####################################_MISC_######################################
+#Misc_SmallBizz_Enrollment,,,ABGQATeam,qa,ABGnetworkSmall,8970987867,Hrishikesh129,calicut university,Eden,Manitoba,R0J0M0 
+Misc_CBPDirect_EnrollmentAndReservation,Canada,ABGQATeam,qa,ABGEcom,ABGEcom@879,2344  Queens Bay,address 2,M4L 1V3,Ontario,ON,YYZ
+
+
+
+#################################_GENERIC_#####################################
+
+
+
+
+###############################_BAU_tracker_####################################
+
+########################_DEC-2020_###############################
+#DEC_REL_ABGDIMT494_Avis_China_BBS_Product,SYX,ABGQATeam,qa,ABGEmailTracker,9838234567
+
+
+
+
+
+
+
