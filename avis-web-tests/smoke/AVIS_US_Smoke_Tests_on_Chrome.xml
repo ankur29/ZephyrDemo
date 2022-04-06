@@ -6,7 +6,7 @@
 		<property name="compiler.debug" value="on"/>
 		<property name="project.jdk.classpath" value="jdk.classpath.1.8"/>
 	</properties>
-	<testcase name="Reservation_EMEA330Days_ErrorMessage" time="0.0" classname="com.avis.qa.ReservationTests">
+	<testcase classname="com.avis.qa.ReservationTests" name="Reservation_EMEA330Days_ErrorMessage" time="0.0" >
 		<failure message="test failure">Assertion failed</failure>
   
   </testcase> <!-- Reservation_Domestic_PayNow -->
