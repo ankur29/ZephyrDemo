@@ -7,7 +7,9 @@
 		<property name="project.jdk.classpath" value="jdk.classpath.1.8"/>
 	</properties>
 	<testcase classname="com.avis.qa.ReservationTests" name="Reservation_EMEA330Days_ErrorMessage" time="0.0" >
+		<testcaseIds="7"></testcaseIds>
 		<failure message="test failure">Assertion failed</failure>
+		
   
   </testcase> <!-- Reservation_Domestic_PayNow -->
 </testsuite> <!-- AVIS US Smoke Tests on Chrome -->
